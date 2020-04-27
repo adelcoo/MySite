@@ -1,1 +1,1 @@
-# Bot for insta
+# My site in vanilla PHP using Bootstrap and JQuery.
